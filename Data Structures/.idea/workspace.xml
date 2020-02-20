@@ -1,7 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbb846a4-d44d-4d20-b737-11ca93a9f1c3" name="Default Changelist" comment="" />
+    <list default="true" id="ba615268-db37-4646-a65f-4d37cbbc3196" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise3 .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/ProblemSolving/JustinGilmour_HighlyRecursiveFunction_MICS18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/ProblemSolving/JustinGilmour_NASCARSMS_MICS2016.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/ProblemSolving/JustinGilmour_NameScores_Graceland.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week1/HW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week1/InClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week2/ComparingStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week2/Loops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week2/Wednesday.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/CircleTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/HW2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/OOP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/Parameters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/PetTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week4/HW3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week4/Monday.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/ArrayLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/ExtraMathFunctions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/HW4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/StudentCourseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/VotingMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/VotingMachineObjects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/ProductTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/iPad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/iPadExercise$iPadPro129.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/iPadExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/iPadPro11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/iPadPro129.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/mulitpleInterfaces/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/mulitpleInterfaces/interface1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/mulitpleInterfaces/interface2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/JustinGilmour_HighlyRecursiveFunction_MICS18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/JustinGilmour_NASCARSMS_MICS2016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/JustinGilmour_NameScores_Graceland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/Team2Kaitlyn_CSS_MICS18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week1/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week1/InClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/ComparingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/Wednesday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/CircleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/Parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/PetTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week4/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week4/Monday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/ExtraMathFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/StudentCourseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/VotingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/VotingMachineObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/ProductTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/iPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/iPadExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/iPadPro11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/iPadPro129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/mulitpleInterfaces/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/mulitpleInterfaces/interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/mulitpleInterfaces/interface2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,13 +92,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1WORAVSoMuDVl2Wh7lCo1501hSF" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y54Kg6ygV3vLxKcORTivh4FgBX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,27 +107,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Week6" />
-      <recent name="$PROJECT_DIR$/src/Week3" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.ProductTester">
-    <configuration name="HW4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week5.HW4" />
-      <module name="Data Structures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Team2Kaitlyn_CSS_MICS18">
     <configuration name="JustinGilmour_HighlyRecursiveFunction_MICS18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.JustinGilmour_HighlyRecursiveFunction_MICS18" />
       <module name="Data Structures" />
@@ -71,25 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PetTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.PetTester" />
+    <configuration name="Team2Kaitlyn_CSS_MICS18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.Team2Kaitlyn_CSS_MICS18" />
       <module name="Data Structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week6.iPad.ProductTester" />
-      <module name="Data Structures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week6.iPad.*" />
+          <option name="PATTERN" value="ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,145 +151,61 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProductTester" />
-        <item itemvalue="Application.JustinGilmour_HighlyRecursiveFunction_MICS18" />
+        <item itemvalue="Application.Team2Kaitlyn_CSS_MICS18" />
         <item itemvalue="Application.JustinGilmour_NameScores_Graceland" />
-        <item itemvalue="Application.HW4" />
-        <item itemvalue="Application.PetTester" />
+        <item itemvalue="Application.JustinGilmour_HighlyRecursiveFunction_MICS18" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bbb846a4-d44d-4d20-b737-11ca93a9f1c3" name="Default Changelist" comment="" />
-      <created>1579018511554</created>
+      <changelist id="ba615268-db37-4646-a65f-4d37cbbc3196" name="Default Changelist" comment="" />
+      <created>1582219058284</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579018511554</updated>
+      <updated>1582219058284</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="737" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582042067037">
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1582225024073">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="737" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.800@0.23.1440.800" timestamp="1580838703193" />
-    <state x="737" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.801@0.23.1440.801" timestamp="1582042067037" />
-    <state x="129" y="328" width="423" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580493453093">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="129" y="328" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1580493453093" />
-    <state x="129" y="315" width="423" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.801@0.23.1440.801" timestamp="1580322318342" />
-    <state x="787" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580753461093">
-      <screen x="0" y="23" width="1440" height="800" />
-    </state>
-    <state x="787" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.800@0.23.1440.800" timestamp="1580753461093" />
-    <state width="702" height="273" key="GridCell.Tab.0.bottom" timestamp="1582137551570">
-      <screen x="0" y="23" width="1440" height="804" />
-    </state>
-    <state width="1398" height="273" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582046871576" />
-    <state width="702" height="273" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1582135825445" />
-    <state width="640" height="394" key="GridCell.Tab.0.bottom/0.23.1440.801/1440.23.1600.877@0.23.1440.801" timestamp="1579988864136" />
-    <state width="702" height="229" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1581655942909" />
-    <state width="702" height="273" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582137551570" />
-    <state width="702" height="229" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1581445602291" />
-    <state width="702" height="229" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1581447032097" />
-    <state width="597" height="263" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1581054021703" />
-    <state width="702" height="273" key="GridCell.Tab.0.center" timestamp="1582137551568">
-      <screen x="0" y="23" width="1440" height="804" />
-    </state>
-    <state width="1398" height="273" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582046871573" />
-    <state width="702" height="273" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1582135825444" />
-    <state width="640" height="394" key="GridCell.Tab.0.center/0.23.1440.801/1440.23.1600.877@0.23.1440.801" timestamp="1579988864135" />
-    <state width="702" height="229" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1581655942907" />
-    <state width="702" height="273" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582137551568" />
-    <state width="702" height="229" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1581445602289" />
-    <state width="702" height="229" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1581447032095" />
-    <state width="597" height="263" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1581054021702" />
-    <state width="702" height="273" key="GridCell.Tab.0.left" timestamp="1582137551567">
-      <screen x="0" y="23" width="1440" height="804" />
-    </state>
-    <state width="1398" height="273" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582046871571" />
-    <state width="702" height="273" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1582135825443" />
-    <state width="640" height="394" key="GridCell.Tab.0.left/0.23.1440.801/1440.23.1600.877@0.23.1440.801" timestamp="1579988864134" />
-    <state width="702" height="229" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1581655942906" />
-    <state width="702" height="273" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582137551566" />
-    <state width="702" height="229" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1581445602288" />
-    <state width="702" height="229" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1581447032094" />
-    <state width="597" height="263" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1581054021701" />
-    <state width="702" height="273" key="GridCell.Tab.0.right" timestamp="1582137551569">
-      <screen x="0" y="23" width="1440" height="804" />
-    </state>
-    <state width="1398" height="273" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582046871574" />
-    <state width="702" height="273" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1582135825444" />
-    <state width="640" height="394" key="GridCell.Tab.0.right/0.23.1440.801/1440.23.1600.877@0.23.1440.801" timestamp="1579988864136" />
-    <state width="702" height="229" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1581655942908" />
-    <state width="702" height="273" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582137551569" />
-    <state width="702" height="229" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1581445602290" />
-    <state width="702" height="229" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1581447032096" />
-    <state width="597" height="263" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1581054021703" />
-    <state width="739" height="253" key="GridCell.Tab.1.bottom" timestamp="1580923646367">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582219097167" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1582225024073" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1582225024072">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580879180221" />
-    <state width="814" height="254" key="GridCell.Tab.1.bottom/0.23.1440.800@0.23.1440.800" timestamp="1579541886912" />
-    <state width="739" height="253" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1580923646367" />
-    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1580848630806" />
-    <state width="640" height="254" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1580229958030" />
-    <state width="739" height="253" key="GridCell.Tab.1.center" timestamp="1580923646367">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582219097165" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1582225024072" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1582225024071">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580879180219" />
-    <state width="814" height="254" key="GridCell.Tab.1.center/0.23.1440.800@0.23.1440.800" timestamp="1579541886908" />
-    <state width="739" height="253" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1580923646367" />
-    <state width="1398" height="302" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1580848630805" />
-    <state width="640" height="254" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1580229958029" />
-    <state width="739" height="253" key="GridCell.Tab.1.left" timestamp="1580923646366">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582219097164" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1582225024071" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1582225024072">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580879180218" />
-    <state width="814" height="254" key="GridCell.Tab.1.left/0.23.1440.800@0.23.1440.800" timestamp="1579541886907" />
-    <state width="739" height="253" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1580923646366" />
-    <state width="1398" height="302" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1580848630804" />
-    <state width="640" height="254" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1580229958028" />
-    <state width="739" height="253" key="GridCell.Tab.1.right" timestamp="1580923646367">
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582219097166" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1582225024072" />
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom" timestamp="1582222340007">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580879180220" />
-    <state width="814" height="254" key="GridCell.Tab.1.right/0.23.1440.800@0.23.1440.800" timestamp="1579541886911" />
-    <state width="739" height="253" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1580923646367" />
-    <state width="1398" height="302" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1580848630805" />
-    <state width="640" height="254" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1580229958029" />
-    <state x="685" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1582046754723">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1582222340007" />
+    <state width="1398" height="254" key="GridCell.Tab.1.center" timestamp="1582222340006">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="685" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1581356910852" />
-    <state x="685" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1582046754723" />
-    <state x="685" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801/1440.23.1600.877@0.23.1440.801" timestamp="1579988854457" />
-    <state x="685" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1582046368746" />
-    <state x="685" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1581654337227" />
-    <state x="31" y="45" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581443592027">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1398" height="254" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1582222340006" />
+    <state width="1398" height="254" key="GridCell.Tab.1.left" timestamp="1582222340005">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="31" y="45" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.806@0.23.1440.806" timestamp="1581443592027" />
-    <state x="6" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1580229875510">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1398" height="254" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1582222340005" />
+    <state width="1398" height="254" key="GridCell.Tab.1.right" timestamp="1582222340006">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="6" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1580229875510" />
+    <state width="1398" height="254" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1582222340006" />
   </component>
 </project>

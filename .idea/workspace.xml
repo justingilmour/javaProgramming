@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40f46571-72ef-4d91-8870-5ef651012503" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Data Structures/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Data Structures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Exercise1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Exercise2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Exercise3 .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Homework1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Homework2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Homework3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/META-INF/Data Structures.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/ProblemSolving/JustinGilmour_HighlyRecursiveFunction_MICS18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/ProblemSolving/JustinGilmour_NASCARSMS_MICS2016.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/ProblemSolving/JustinGilmour_NameScores_Graceland.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week1/HW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week1/InClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week2/ComparingStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week2/Loops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week2/Wednesday.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week3/CircleTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week3/Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week3/HW2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week3/OOP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week3/Parameters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week3/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week3/PetTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week4/HW3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week4/Monday.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week5/ArrayLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week5/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week5/ExtraMathFunctions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week5/HW4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week5/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week5/StudentCourseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week5/VotingMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week5/VotingMachineObjects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week6/iPad/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week6/iPad/ProductTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week6/iPad/iPad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week6/iPad/iPadExercise$iPadPro129.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week6/iPad/iPadExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week6/iPad/iPadPro11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week6/iPad/iPadPro129.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week6/mulitpleInterfaces/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week6/mulitpleInterfaces/interface1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/out/production/Data Structures/Week6/mulitpleInterfaces/interface2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/ProblemSolving/JustinGilmour_HighlyRecursiveFunction_MICS18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/ProblemSolving/JustinGilmour_NASCARSMS_MICS2016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/ProblemSolving/JustinGilmour_NameScores_Graceland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week1/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week1/InClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week2/ComparingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week2/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week2/Wednesday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week3/CircleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week3/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week3/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week3/OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week3/Parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week3/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week3/PetTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week4/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week4/Monday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week5/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week5/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week5/ExtraMathFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week5/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week5/StudentCourseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week5/VotingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week5/VotingMachineObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week6/iPad/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week6/iPad/ProductTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week6/iPad/iPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week6/iPad/iPadExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week6/iPad/iPadPro11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week6/iPad/iPadPro129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week6/mulitpleInterfaces/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week6/mulitpleInterfaces/interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/src/Week6/mulitpleInterfaces/interface2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Data Structures" />
+  </component>
+  <component name="ProjectId" id="1Y5474DlfxEuZ13UpHR1zLoTvWQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40f46571-72ef-4d91-8870-5ef651012503" name="Default Changelist" comment="" />
+      <created>1582218950139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582218950139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582218967492">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="572" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1582218967492" />
+  </component>
+</project>
