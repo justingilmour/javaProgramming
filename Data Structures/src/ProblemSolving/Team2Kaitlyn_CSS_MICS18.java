@@ -9,6 +9,7 @@ public class Team2Kaitlyn_CSS_MICS18 {
 
         for (int i = 0; i < cases; i++) {
             int scalingFactor = input.nextInt();
+            System.out.println("Case: " + (i+1));
             for (int j = 0; j < scalingFactor * 5; j++) {
                 if (j < scalingFactor || j >= scalingFactor * 4) {
                     for (int k = 0; k < scalingFactor * 5; k++) {
