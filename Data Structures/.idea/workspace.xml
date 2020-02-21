@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba615268-db37-4646-a65f-4d37cbbc3196" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week6/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week6/Homework5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/ProblemSolving/Team2Kaitlyn_CSS_MICS18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/ProblemSolving/Team2Kaitlyn_CSS_MICS18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/Team2Kaitlyn_CSS_MICS18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/Team2Kaitlyn_CSS_MICS18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Week5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week5/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,10 +179,10 @@
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582241165737" />
     <state width="1398" height="254" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1582222340006" />
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582250583821">
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582305140605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582250583821" />
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582305140605" />
     <state x="202" y="435" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582251312801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
