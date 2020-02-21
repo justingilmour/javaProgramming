@@ -29,10 +29,4 @@ public class Homework5 {
 ////        System.out.println(doubleArray[intArray[2]]);
 ////        System.out.println(arraysEqualOne);
 ////        System.out.println(arraysEqualTwo);
-
-        public static int arrayParameter(int[] newArray){
-            int[] tempArray = new int[newArray.length];
-            Random randomGenerator = new Random();
-            int num = randomGenerator()
-    }
 }

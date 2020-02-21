@@ -2,14 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba615268-db37-4646-a65f-4d37cbbc3196" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week6/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week6/Homework5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/ProblemSolving/Team2Kaitlyn_CSS_MICS18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/ProblemSolving/Team2Kaitlyn_CSS_MICS18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/Team2Kaitlyn_CSS_MICS18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/Team2Kaitlyn_CSS_MICS18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise3 .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/META-INF/Data Structures.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/ProblemSolving/JustinGilmour_HighlyRecursiveFunction_MICS18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/ProblemSolving/JustinGilmour_NASCARSMS_MICS2016.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/ProblemSolving/JustinGilmour_NameScores_Graceland.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week1/HW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week1/InClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week2/ComparingStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week2/Loops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week2/Wednesday.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/CircleTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/HW2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/OOP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/Parameters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week3/PetTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week4/HW3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week4/Monday.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/ArrayLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/ExtraMathFunctions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/HW4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/StudentCourseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/VotingMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week5/VotingMachineObjects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/ProductTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/iPad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/iPadExercise$iPadPro129.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/iPadExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/iPadPro11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/iPad/iPadPro129.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/mulitpleInterfaces/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/mulitpleInterfaces/interface1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/Week6/mulitpleInterfaces/interface2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/JustinGilmour_HighlyRecursiveFunction_MICS18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/JustinGilmour_NASCARSMS_MICS2016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/JustinGilmour_NameScores_Graceland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/Team2Kaitlyn_CSS_MICS18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week1/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week1/InClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/ComparingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/Wednesday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/CircleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/Parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/PetTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week4/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week4/Monday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/ExtraMathFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/StudentCourseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/VotingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/VotingMachineObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/Books/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/Books/BookTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/Books/Textbook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/ProductTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/iPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/iPadExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/iPadPro11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/iPad/iPadPro129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/mulitpleInterfaces/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/mulitpleInterfaces/interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/mulitpleInterfaces/interface2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +101,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y54Kg6ygV3vLxKcORTivh4FgBX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -138,54 +215,59 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="197" y="182" key="#TryArrayList1/0.0.1920.1040@0.0.1920.1040" timestamp="1582251728938" />
-    <state x="336" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582230727269">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="885" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1582309690462">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="885" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.804@0.23.1440.804" timestamp="1582309690462" />
+    <state x="252" y="338" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582306190118">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="336" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582230727269" />
-    <state width="914" height="258" key="GridCell.Tab.0.bottom" timestamp="1582252465202">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="252" y="338" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.800@0.23.1440.800" timestamp="1582306190118" />
+    <state width="1398" height="254" key="GridCell.Tab.0.bottom" timestamp="1582261259307">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582219097167" />
     <state width="914" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582252465202" />
-    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1582225024073" />
-    <state width="914" height="258" key="GridCell.Tab.0.center" timestamp="1582252465202">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1582261259307" />
+    <state width="1398" height="254" key="GridCell.Tab.0.center" timestamp="1582261259305">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582219097165" />
     <state width="914" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582252465202" />
-    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1582225024072" />
-    <state width="914" height="258" key="GridCell.Tab.0.left" timestamp="1582252465202">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="254" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1582261259305" />
+    <state width="1398" height="254" key="GridCell.Tab.0.left" timestamp="1582261259304">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582219097164" />
     <state width="914" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582252465202" />
-    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1582225024071" />
-    <state width="914" height="258" key="GridCell.Tab.0.right" timestamp="1582252465202">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="254" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1582261259304" />
+    <state width="1398" height="254" key="GridCell.Tab.0.right" timestamp="1582261259306">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582219097166" />
     <state width="914" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582252465202" />
-    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1582225024072" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582241165737">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="254" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1582261259306" />
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom" timestamp="1582261259311">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582241165737" />
-    <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1582222340007" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1582241165737">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1582261259311" />
+    <state width="1398" height="254" key="GridCell.Tab.1.center" timestamp="1582261259309">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582241165737" />
-    <state width="1398" height="254" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1582222340006" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1582241165737">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="254" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1582261259309" />
+    <state width="1398" height="254" key="GridCell.Tab.1.left" timestamp="1582261259308">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582241165737" />
-    <state width="1398" height="254" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1582222340005" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1582241165737">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="254" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1582261259308" />
+    <state width="1398" height="254" key="GridCell.Tab.1.right" timestamp="1582261259310">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582241165737" />
-    <state width="1398" height="254" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1582222340006" />
+    <state width="1398" height="254" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1582261259310" />
     <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582250583821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

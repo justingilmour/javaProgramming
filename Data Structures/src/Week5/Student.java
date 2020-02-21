@@ -1,13 +1,13 @@
 package Week5;
 
+import java.util.ArrayList;
+
 public class Student {
 
     public static int nextId = 100;
 
     private String name;
     private int id;
-    private 
-
 
     public Student(String name, int id){
         this.id=id;
