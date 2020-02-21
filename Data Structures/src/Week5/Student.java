@@ -8,6 +8,10 @@ public class Student {
 
     private String name;
     private int id;
+<<<<<<< HEAD
+=======
+
+>>>>>>> df6508ab379764d7d8787fc80bc4b9a3059d5b07
 
     public Student(String name, int id){
         this.id=id;

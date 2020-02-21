@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba615268-db37-4646-a65f-4d37cbbc3196" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
@@ -87,6 +88,9 @@
       <change afterPath="$PROJECT_DIR$/src/Week6/mulitpleInterfaces/Tester.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Week6/mulitpleInterfaces/interface1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Week6/mulitpleInterfaces/interface2.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/Week5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week5/Student.java" afterDir="false" />
+>>>>>>> df6508ab379764d7d8787fc80bc4b9a3059d5b07
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,11 +271,16 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582241165737" />
+<<<<<<< HEAD
     <state width="1398" height="254" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1582261259310" />
     <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582250583821">
+=======
+    <state width="1398" height="254" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1582222340006" />
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582305140605">
+>>>>>>> df6508ab379764d7d8787fc80bc4b9a3059d5b07
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582250583821" />
+    <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582305140605" />
     <state x="202" y="435" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582251312801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
