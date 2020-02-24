@@ -13,10 +13,21 @@ public class Textbook extends Book {
         resourceLst = new ArrayList<>();
     }
 
+    public void changePrice(double update) {
+        super.changePrice(update + update *.1);
+    }
+
+    public void addResource(String newResource) {
+        if (!resourceLst.contains(newResource)) {
+            resourceLst.add(newResource);
+        }
+    }
+
     @Override
     public String toString(){
         String out = super.toString();
         out = out + " subject is " + subject + " and resource list is " + resourceLst;
+        out += resourceLst;
         return out;
     }
 }

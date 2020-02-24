@@ -4,20 +4,28 @@ import javax.swing.*;
 
 public class Book {
 
+    //instance variable
     private String title;
     private String author;
     private double price;
 
-    public Book(String title, String author, double price){
+    //constructor
+    public Book(String title, String auth, double price) {
         this.title = title;
-        this.author = author;
-        this. price = price;
+        author = auth;
+        this.price = price;
     }
 
-    public Book(double price){
+    public double returnPrice() {
+        return price;
+    }
+
+    public void changePrice(double update) {
+        price += update;
 
     }
 
+    @Override
     public String toString() {
         return title + " by " + author + " costs $" + price;
     }
