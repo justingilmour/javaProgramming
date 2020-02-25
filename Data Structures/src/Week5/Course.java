@@ -17,12 +17,19 @@ public class Course {
 
     public ArrayList<Integer> getCourses(int course) {
         this.course = course;
-        if (courses.size() <= 4 && !courses.equals(courses)) {
+        if (courses.size() <= 4 && !courses.contains(course)) {
             courses.add(course);
         } return courses;
     }
 
+    public ArrayList<Integer> removeCourses(int course){
+        if (courses.contains(course)){
+            courses.remove(course);
+        } return courses;
+    }
+
     public String toString(){
+//        if (courses.size() < 3)
         return dept + " " + course + " " + credits;
     }
 }
