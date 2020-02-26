@@ -16,7 +16,6 @@ public class Course {
     }
 
     public ArrayList<Integer> getCourses(int course) {
-        this.course = course;
         if (courses.size() <= 4 && !courses.contains(course)) {
             courses.add(course);
         } return courses;
@@ -29,7 +28,12 @@ public class Course {
     }
 
     public String toString(){
-//        if (courses.size() < 3)
-        return dept + " " + course + " " + credits;
+        String out = dept + " " + course + " " + credits + ". ";
+        if (courses.size() < 3){
+            out += "Your load is not full-time.";
+        } else if (courses.size() == 0){
+            out += "You are not classified as a student, you are taking no classes.";
+        }
+        return out;
     }
 }

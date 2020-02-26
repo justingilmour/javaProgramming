@@ -29,4 +29,11 @@ public class Homework5 {
 ////        System.out.println(doubleArray[intArray[2]]);
 ////        System.out.println(arraysEqualOne);
 ////        System.out.println(arraysEqualTwo);
-}
+public static void main(String[] args) {
+
+    int top =12, bottom =2;
+    Random randomGenerator = new Random();
+    int num = randomGenerator.nextInt(top-bottom) + bottom;
+    System.out.println(num);
+}}
+
