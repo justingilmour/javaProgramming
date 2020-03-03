@@ -26,6 +26,9 @@ public class Course {
             courses.remove(course);
         } return courses;
     }
+//    public ArrayList<String> computeQualification(String dept, int course, double credits){
+//        
+//    }
 
     public String toString(){
         String out = dept + " " + course + " " + credits + ". ";
