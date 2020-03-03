@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba615268-db37-4646-a65f-4d37cbbc3196" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week8/Math.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week5/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week5/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week6/iPad/ProductTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week6/iPad/ProductTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,11 +139,12 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="885" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.804@0.23.1440.804" timestamp="1582309690462" />
-    <state x="336" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583250783776">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="252" y="338" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583258040266">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="336" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583250783776" />
     <state x="252" y="338" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.800@0.23.1440.800" timestamp="1582739329607" />
+    <state x="252" y="338" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.801@0.23.1440.801" timestamp="1583258040266" />
     <state width="928" height="257" key="GridCell.Tab.0.bottom" timestamp="1583254780683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -203,12 +201,12 @@
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582241165737" />
     <state width="1398" height="254" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1582261259310" />
-    <state x="184" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583249714817">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="138" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1583258034224">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="184" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583249714817" />
     <state x="138" y="288" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1582823876604" />
-    <state x="138" y="288" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1582911143063" />
+    <state x="138" y="288" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1583258034224" />
     <state x="202" y="435" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582251312801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
