@@ -66,7 +66,13 @@ public class Team2Kaitlyn_CSS_MICS18 {
                     for (int k = 0; k < scalingFactor; k++) {
                         System.out.print("S");
                     }
-                }
+                } System.out.println();
+            }
+            if (cases > 1) {
+                System.out.println();
+                System.out.println();
+                System.out.println();
+                System.out.println();
                 System.out.println();
             }
         }
